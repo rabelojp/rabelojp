@@ -5,14 +5,15 @@
 
 <div align="center">
   <!-- Gráfico de estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=false" height="150" alt="stats graph"  />
   
   <!-- Gráfico de streaks (dias consecutivos de contribuições) -->
-  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=radical&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=blueberry&hide_border=false" height="150" alt="streak graph"  />
   
-  <!-- Mapa de calor de contribuições com tema azul -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=github" height="200" alt="contribution graph" />
+  <!-- Mapa de calor de contribuições com tom de azul personalizado -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&bg_color=0d1117&color=4353e9&line=4353e9&point=ffffff&area=true&hide_border=false" height="200" alt="contribution graph" />
 </div>
+
 
 
 
