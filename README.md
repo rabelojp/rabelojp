@@ -4,24 +4,15 @@
 ###
 
 <div align="center">
-  <!-- Gráfico de estatísticas gerais com tema dark -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <!-- Gráfico de estatísticas gerais com tema azul -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=blue&hide_border=false" height="150" alt="stats graph"  />
   
-  <!-- Gráfico de commits diários com tema dark -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=dark" height="150" alt="commits graph" />
+  <!-- Gráfico de atividades diárias com tema azul -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=blue" height="150" alt="activity graph" />
   
-  <!-- Mapa de calor de contribuições com tema dark -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=dark" height="200" alt="contribution graph" />
+  <!-- Mapa de calor de contribuições com tema azul -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=blue" height="200" alt="contribution graph" />
 </div>
-
-
-
-
-
-
-
-
-
 
 ###
 
