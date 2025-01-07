@@ -4,15 +4,16 @@
 ###
 
 <div align="center">
-  <!-- Gráfico de estatísticas gerais com tema merko -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=false" height="150" alt="stats graph"  />
+  <!-- Gráfico de estatísticas gerais com tema dark -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph"  />
   
-  <!-- Gráfico de streaks (dias consecutivos de contribuições) com tema merko -->
-  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=merko&hide_border=false" height="150" alt="streak graph"  />
+  <!-- Gráfico de streaks (dias consecutivos de contribuições) com tema dark -->
+  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=dark&hide_border=false" height="150" alt="streak graph"  />
   
-  <!-- Mapa de calor de contribuições com tema merko -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=merko" height="200" alt="contribution graph" />
+  <!-- Mapa de calor de contribuições com tema dark -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=dark" height="200" alt="contribution graph" />
 </div>
+
 
 
 
