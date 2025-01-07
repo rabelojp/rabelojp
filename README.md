@@ -11,6 +11,8 @@
   
   <!-- Gráfico de linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelojp&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+   <!-- Mapa de calor de contribuições -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=radical&hide_border=false" height="200" alt="contribution graph" />
   
 </div>
 
