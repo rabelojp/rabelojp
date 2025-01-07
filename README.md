@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Rabelo and I'm a software development student from Brasília-DF, Brasil 🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is João Paulo Rabelo and I'm a software development student from Brasília-DF, Brasil 🇧🇷</h2>
 <p align="left">I'm passionate about web development, learning new technologies, and building projects that solve real-world problems. My focus is on improving my skills in <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Python</strong>.</p>
 
 ###
@@ -38,8 +38,8 @@
 <h3>🌟 Featured Projects</h3>
 <ul>
   <li>
-    <strong>Portfolio Website</strong>: A personal website built with React and TypeScript. 
-    <a href="https://github.com/rabelojp/portfolio" target="_blank">GitHub</a>
+    <strong>ALUDF Website</strong>: Association of Academic Leagues of the UDF
+    <a href="https://aludf.com" target="_blank">ALUDF</a>
   </li>
   <li>
     <strong>Task Manager</strong>: A full-stack app for managing tasks, built with Node.js and MongoDB. 
