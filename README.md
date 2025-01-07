@@ -65,7 +65,7 @@
 
   <!-- Link para o Instagram da LAACT -->
   <a href="https://www.instagram.com/laact.df/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram Liga Acadêmica&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram LAACT" />
+    <img src="https://img.shields.io/static/v1?message=Instagram LAACT&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram LAACT" />
   </a>
 
   <!-- Link para o LinkedIn pessoal -->
