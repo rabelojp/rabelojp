@@ -32,6 +32,18 @@
 
 ###
 
+<h3>🌟 Featured Projects</h3>
+<ul>
+  <li>
+    <strong>Portfolio Website</strong>: A personal website built with React and TypeScript. 
+    <a href="https://github.com/rabelojp/portfolio" target="_blank">GitHub</a>
+  </li>
+  <li>
+    <strong>Task Manager</strong>: A full-stack app for managing tasks, built with Node.js and MongoDB. 
+    <a href="https://github.com/rabelojp/task-manager" target="_blank">GitHub</a>
+  </li>
+</ul>
+
 <br clear="both">
 
 ###
