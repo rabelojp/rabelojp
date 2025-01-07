@@ -68,6 +68,13 @@
   </a>
 </div>
 
+###
+
+<h3>📫 How to reach me:</h3>
+<p>Email: <a href="mailto:seuemail@gmail.com">seuemail@gmail.com</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/seu-perfil/">linkedin.com/in/seu-perfil/</a></p>
+
+
 
 <br clear="both">
 
