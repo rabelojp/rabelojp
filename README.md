@@ -38,12 +38,20 @@
 <h3>🌟 Featured Projects</h3>
 <ul>
   <li>
+    <strong>Tech Socius Website</strong>: Technology Holding 
+    <a href="https://techsocius.com" target="_blank">Tech Socius</a>
+  </li>
+  <li>
     <strong>ALUDF Website</strong>: Association of Academic Leagues of the UDF
     <a href="https://aludf.com" target="_blank">ALUDF</a>
   </li>
   <li>
-    <strong>Task Manager</strong>: A full-stack app for managing tasks, built with Node.js and MongoDB. 
-    <a href="https://github.com/rabelojp/task-manager" target="_blank">GitHub</a>
+    <strong>LAACT Website</strong>: Academic League of Arts, Sciences and Technology
+    <a href="https://laact.com.br" target="_blank">LAACT</a>
+  </li>
+  <li>
+    <strong>Dental Surgeon Website</strong>: Dra. Kamilla Jhéssica
+    <a href="https://kamillajhessica.com.br" target="_blank">Kamilla Jhéssica</a>
   </li>
 </ul>
 
