@@ -4,9 +4,16 @@
 ###
 
 <div align="center">
+  <!-- Gráfico de estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+  
+  <!-- Gráfico de linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelojp&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- Gráfico de streaks (dias consecutivos de contribuições) -->
+  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=radical&hide_border=false" height="150" alt="streak graph"  />
 </div>
+
 
 ###
 
