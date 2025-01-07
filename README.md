@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is João Rabelo and I'm a student, from Brasília-DF, Brasil 🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is João Rabelo and I'm a software development student from Brasília-DF, Brasil 🇧🇷</h2>
+<p align="left">I'm passionate about web development, learning new technologies, and building projects that solve real-world problems. My focus is on improving my skills in <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Python</strong>.</p>
 
 ###
 
