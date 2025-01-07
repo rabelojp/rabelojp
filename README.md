@@ -47,13 +47,27 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <!-- Link para o Instagram pessoal -->
+  <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram pessoal" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+
+  <!-- Link para o Instagram da Liga Acadêmica -->
+  <a href="https://www.instagram.com/instagram_da_liga/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram Liga Acadêmica&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram da Liga Acadêmica" />
+  </a>
+
+  <!-- Link para o Instagram da Agência -->
+  <a href="https://www.instagram.com/instagram_da_agencia/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram Agência&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram da Agência" />
+  </a>
+
+  <!-- Link para o LinkedIn pessoal -->
+  <a href="https://www.linkedin.com/in/seu_linkedin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn pessoal" />
   </a>
 </div>
+
 
 <br clear="both">
 
