@@ -4,17 +4,16 @@
 ###
 
 <div align="center">
-  <!-- Mapa de calor de contribuições -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=github&hide_border=false" height="200" alt="contribution graph" />
-
-  <br/>
-
-  <!-- Gráficos de streaks e estatísticas gerais lado a lado -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=radical&hide_border=false" height="180" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="180" alt="stats graph" />
-  </div>
+  <!-- Gráfico de estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+  
+  <!-- Gráfico de streaks (dias consecutivos de contribuições) -->
+  <img src="https://streak-stats.demolab.com/?user=rabelojp&theme=radical&hide_border=false" height="150" alt="streak graph"  />
+  
+  <!-- Mapa de calor de contribuições com tema azul -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=github" height="200" alt="contribution graph" />
 </div>
+
 
 
 
