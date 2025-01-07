@@ -7,9 +7,6 @@
   <!-- Gráfico de estatísticas gerais com tema azul -->
   <img src="https://github-readme-stats.vercel.app/api?username=rabelojp&show_icons=true&include_all_commits=true&count_private=true&theme=blue&hide_border=false" height="150" alt="stats graph"  />
   
-  <!-- Gráfico de estatísticas de contribuições com tema azul -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=blue-dark" height="150" alt="contributions stats graph" />
-  
   <!-- Mapa de calor de contribuições com tema personalizado em azul claro -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabelojp&theme=github-light" height="200" alt="contribution graph" />
 </div>
